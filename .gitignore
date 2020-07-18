@@ -1,0 +1,11 @@
+.vs/
+*/.vs/*
+*.exe
+Debug/
+**/Debug/*
+*.ilk
+*.pdb
+**/*.log
+*.tlog
+**/Debug/*.log
+src/**/Debug/
